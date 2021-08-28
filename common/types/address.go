@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/binance-chain/go-sdk/common/bech32"
+	"github.com/zlyzol/binance-go-sdk/common/bech32"
 	"github.com/zlyzol/tendermint-0.32.3/crypto"
 )
 

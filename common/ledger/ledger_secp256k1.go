@@ -1,9 +1,9 @@
 package ledger
 
 import (
-	"github.com/binance-chain/go-sdk/common/types"
 	"github.com/btcsuite/btcd/btcec"
 	tmbtcec "github.com/tendermint/btcd/btcec"
+	"github.com/zlyzol/binance-go-sdk/common/types"
 	ledgergo "github.com/zlyzol/ledger-cosmos-go"
 	"github.com/zlyzol/tendermint-0.32.3/crypto"
 	"github.com/zlyzol/tendermint-0.32.3/crypto/secp256k1"

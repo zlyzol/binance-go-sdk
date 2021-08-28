@@ -15,11 +15,11 @@ import (
 	tmquery "github.com/zlyzol/tendermint-0.32.3/libs/pubsub/query"
 	"github.com/zlyzol/tendermint-0.32.3/types"
 
-	"github.com/binance-chain/go-sdk/client/rpc"
-	"github.com/binance-chain/go-sdk/client/transaction"
-	ctypes "github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/keys"
-	"github.com/binance-chain/go-sdk/types/msg"
+	"github.com/zlyzol/binance-go-sdk/client/rpc"
+	"github.com/zlyzol/binance-go-sdk/client/transaction"
+	ctypes "github.com/zlyzol/binance-go-sdk/common/types"
+	"github.com/zlyzol/binance-go-sdk/keys"
+	"github.com/zlyzol/binance-go-sdk/types/msg"
 )
 
 var (

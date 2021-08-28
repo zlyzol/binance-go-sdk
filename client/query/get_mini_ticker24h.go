@@ -2,9 +2,9 @@ package query
 
 import (
 	"encoding/json"
-	"github.com/binance-chain/go-sdk/common/types"
+	"github.com/zlyzol/binance-go-sdk/common/types"
 
-	"github.com/binance-chain/go-sdk/common"
+	"github.com/zlyzol/binance-go-sdk/common"
 )
 
 // GetMiniTicker24h returns mini token ticker 24h

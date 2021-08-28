@@ -12,9 +12,9 @@ import (
 	"github.com/zlyzol/tendermint-0.32.3/rpc/lib/client"
 	"github.com/zlyzol/tendermint-0.32.3/types"
 
-	ntypes "github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/keys"
-	"github.com/binance-chain/go-sdk/types/tx"
+	ntypes "github.com/zlyzol/binance-go-sdk/common/types"
+	"github.com/zlyzol/binance-go-sdk/keys"
+	"github.com/zlyzol/binance-go-sdk/types/tx"
 )
 
 var DefaultTimeout = 5 * time.Second

@@ -1,8 +1,8 @@
 package transaction
 
 import (
-	"github.com/binance-chain/go-sdk/types/msg"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/zlyzol/binance-go-sdk/types/msg"
+	"github.com/zlyzol/binance-go-sdk/types/tx"
 )
 
 type SetUriResult struct {

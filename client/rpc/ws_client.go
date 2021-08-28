@@ -23,8 +23,8 @@ import (
 	"github.com/zlyzol/tendermint-0.32.3/rpc/lib/types"
 	"github.com/zlyzol/tendermint-0.32.3/types"
 
-	"github.com/binance-chain/go-sdk/common/uuid"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/zlyzol/binance-go-sdk/common/uuid"
+	"github.com/zlyzol/binance-go-sdk/types/tx"
 )
 
 const (

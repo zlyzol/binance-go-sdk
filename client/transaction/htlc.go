@@ -1,9 +1,9 @@
 package transaction
 
 import (
-	"github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/types/msg"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/zlyzol/binance-go-sdk/common/types"
+	"github.com/zlyzol/binance-go-sdk/types/msg"
+	"github.com/zlyzol/binance-go-sdk/types/tx"
 )
 
 type HTLTResult struct {

@@ -1,4 +1,4 @@
-module github.com/binance-chain/go-sdk
+module github.com/zlyzol/binance-go-sdk
 
 go 1.16
 

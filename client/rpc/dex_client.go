@@ -4,12 +4,12 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/binance-chain/go-sdk/common"
-	"github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/keys"
-	gtypes "github.com/binance-chain/go-sdk/types"
-	"github.com/binance-chain/go-sdk/types/msg"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/zlyzol/binance-go-sdk/common"
+	"github.com/zlyzol/binance-go-sdk/common/types"
+	"github.com/zlyzol/binance-go-sdk/keys"
+	gtypes "github.com/zlyzol/binance-go-sdk/types"
+	"github.com/zlyzol/binance-go-sdk/types/msg"
+	"github.com/zlyzol/binance-go-sdk/types/tx"
 	core_types "github.com/zlyzol/tendermint-0.32.3/rpc/core/types"
 )
 

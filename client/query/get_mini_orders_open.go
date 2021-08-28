@@ -3,8 +3,8 @@ package query
 import (
 	"encoding/json"
 
-	"github.com/binance-chain/go-sdk/common"
-	"github.com/binance-chain/go-sdk/common/types"
+	"github.com/zlyzol/binance-go-sdk/common"
+	"github.com/zlyzol/binance-go-sdk/common/types"
 )
 
 // GetMiniOpenOrders returns array of mini open orders

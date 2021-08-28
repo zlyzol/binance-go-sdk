@@ -2,7 +2,7 @@ package e2e
 
 import (
 	"fmt"
-	"github.com/binance-chain/go-sdk/client/rpc"
+	"github.com/zlyzol/binance-go-sdk/client/rpc"
 	"github.com/zlyzol/tendermint-0.32.3/crypto"
 	"strings"
 	"testing"
@@ -12,13 +12,13 @@ import (
 
 	"github.com/zlyzol/tendermint-0.32.3/types/time"
 
-	sdk "github.com/binance-chain/go-sdk/client"
-	"github.com/binance-chain/go-sdk/client/transaction"
-	"github.com/binance-chain/go-sdk/common"
-	ctypes "github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/keys"
-	"github.com/binance-chain/go-sdk/types/msg"
-	txtype "github.com/binance-chain/go-sdk/types/tx"
+	sdk "github.com/zlyzol/binance-go-sdk/client"
+	"github.com/zlyzol/binance-go-sdk/client/transaction"
+	"github.com/zlyzol/binance-go-sdk/common"
+	ctypes "github.com/zlyzol/binance-go-sdk/common/types"
+	"github.com/zlyzol/binance-go-sdk/keys"
+	"github.com/zlyzol/binance-go-sdk/types/msg"
+	txtype "github.com/zlyzol/binance-go-sdk/types/tx"
 )
 
 // After bnbchain integration_test.sh has runned
