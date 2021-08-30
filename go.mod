@@ -22,8 +22,7 @@ require (
 	gopkg.in/resty.v1 v1.10.3
 )
 
-replace github.com/tendermint/go-amino => github.com/binance-chain/bnc-go-amino v0.14.1-binance.1
-
-replace github.com/zondax/ledger-go => github.com/binance-chain/ledger-go v0.9.1
-
-replace github.com/tendermint/tendermint => github.com/zlyzol/tendermint-0.32.3 v0.0.1
+replace (
+	github.com/tendermint/go-amino => github.com/binance-chain/bnc-go-amino v0.14.1-binance.1
+	github.com/zondax/ledger-go => github.com/binance-chain/ledger-go v0.9.1
+)
