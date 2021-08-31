@@ -117,12 +117,12 @@ github.com/syndtr/goleveldb v1.0.1-0.20190318030020-c3a204f8e965 h1:1oFLiOyVl+W7
 github.com/syndtr/goleveldb v1.0.1-0.20190318030020-c3a204f8e965/go.mod h1:9OrXJhf154huy1nPWmuSrkgjPUtUNhA+Zmy+6AESzuA=
 github.com/tendermint/btcd v0.0.0-20180816174608-e5840949ff4f h1:R0wLxgASGMoRQTF/dCSk4N+M3j9DLyPDzDff2WtCg/I=
 github.com/tendermint/btcd v0.0.0-20180816174608-e5840949ff4f/go.mod h1:DC6/m53jtQzr/NFmMNEu0rxf18/ktVoVtMrnDD5pN+U=
-github.com/tendermint/tm-db v0.1.1 h1:G3Xezy3sOk9+ekhjZ/kjArYIs1SmwV+1OUgNkj7RgV0=
-github.com/tendermint/tm-db v0.1.1/go.mod h1:0cPKWu2Mou3IlxecH+MEUSYc1Ch537alLe6CpFrKzgw=
 github.com/zlyzol/ledger-cosmos-go v1.0.0 h1:ut7tcsE06poEVg0hqaxMi82ovpzrRgOfb3CUSGo7OvU=
 github.com/zlyzol/ledger-cosmos-go v1.0.0/go.mod h1:hlSjSDNfd0A/gnmviib8PAdr6Z5ynmfXIJTuZEEG+ro=
-github.com/zlyzol/tendermint-0.32.3 v1.0.0 h1:zs8GU4kDcTUfEuYpfyAv1KMoVVutmA5MD82mRELTIg4=
-github.com/zlyzol/tendermint-0.32.3 v1.0.0/go.mod h1:tuQ+sEIk9f5wWjNoqvA/jzTvYzC85XJLE0AMjFUcj+I=
+github.com/zlyzol/tendermint-0.32.3 v1.0.1 h1:Jt62wrZ6beM5Mv2X6MYG6/ZH0NuLPHuCBrA1ROIQbaw=
+github.com/zlyzol/tendermint-0.32.3 v1.0.1/go.mod h1:P8tz1L8zPc0p5dCY28WaskVrv+V8ODKyFTT0U5LZaKI=
+github.com/zlyzol/tm-db-0.1.1 v1.0.2 h1:QEFpzeZ897V1NnHoLW76/lOq9FsLk9Bj9xakzLqySXM=
+github.com/zlyzol/tm-db-0.1.1 v1.0.2/go.mod h1:uD1JzRGbF2gMeoO95YAFZEPHkhx4dDbc2vlSd7o8Vv8=
 github.com/zondax/hid v0.9.0 h1:eiT3P6vNxAEVxXMw66eZUAAnU2zD33JBkfG/EnfAKl8=
 github.com/zondax/hid v0.9.0/go.mod h1:l5wttcP0jwtdLjqjMMWFVEE7d1zO0jvSPA9OPZxWpEM=
 go.etcd.io/bbolt v1.3.3 h1:MUGmc65QhB3pIlaQ5bB4LwqSj6GIonVJXpZiaKNyaKk=

@@ -15,7 +15,7 @@ require (
 	github.com/tendermint/btcd v0.0.0-20180816174608-e5840949ff4f
 	github.com/tendermint/go-amino v0.14.1
 	github.com/zlyzol/ledger-cosmos-go v1.0.0
-	github.com/zlyzol/tendermint-0.32.3 v1.0.0
+	github.com/zlyzol/tendermint-0.32.3 v1.0.1
 	github.com/zondax/hid v0.9.0 // indirect
 	github.com/zondax/ledger-go v0.9.0 // indirect
 	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
